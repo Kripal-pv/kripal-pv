@@ -1,4 +1,4 @@
-# Kripal Pv | Cybersecurity Portfolio
+# Kripal Pv | Cybersecurity student | Portfolio
 
 Hi, I'm Kripal Pv, a cybersecurity enthusiast from India passionate about network security and threat detection.
 
