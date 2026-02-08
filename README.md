@@ -2,12 +2,7 @@
 
 Hi, I'm Kripal Pv, a cybersecurity enthusiast from India passionate about network security and threat detection.
 
-I specialize in:
 
-- Snort IDS Rule Development
-- Nmap Scan Detection
-- SOC Investigation & Alert Analysis
-- Network Security Monitoring
 
 🔐 Projects:
 - Allscan tool integrated with namp
